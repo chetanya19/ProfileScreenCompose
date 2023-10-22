@@ -59,7 +59,7 @@ dependencies {
     implementation(Dependencies.composeUiToolingPreview)
     implementation(Dependencies.composeMaterial3)
     implementation(Dependencies.composeConstraintLayout)
-    implementation("io.coil-kt:coil-compose:2.0.0")
+    implementation(Dependencies.coil)
     testImplementation(Dependencies.composeJUnit4)
     debugImplementation(Dependencies.composeUiTooling)
     androidTestImplementation(Dependencies.extJUnit)

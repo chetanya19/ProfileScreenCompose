@@ -1,5 +1,6 @@
 object Dependencies {
 
+    val coil by lazy {"io.coil-kt:coil-compose:${Versions.coil}"}
     val coreKtx by lazy { "androidx.core:core-ktx:${Versions.coreKtx}" }
     val appcompat by lazy { "androidx.appcompat:appcompat:${Versions.appcompat}" }
     val material by lazy { "com.google.android.material:material:${Versions.material}" }

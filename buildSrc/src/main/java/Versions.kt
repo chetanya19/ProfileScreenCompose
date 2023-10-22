@@ -1,4 +1,5 @@
 object Versions {
+    const val coil = "2.0.0"
     const val uiToolingPreview = "1.0.0"
     const val coreKtx = "1.9.0"
     const val appcompat = "1.6.1"
