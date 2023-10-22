@@ -1,0 +1,16 @@
+object Versions {
+    const val uiToolingPreview = "1.0.0"
+    const val coreKtx = "1.9.0"
+    const val appcompat = "1.6.1"
+    const val material = "1.9.0"
+    const val material3 = "1.1.0"
+    const val lifecycleRuntimeKtx = "2.6.1"
+    const val activityCompose = "1.7.2"
+    const val compose = "2023.03.00"
+    const val navigationCompose = "2.7.0"
+    const val lifecycleViewModelKtx = "2.6.1"
+    const val composeConstraintLayout = "1.0.1"
+    const val junit4 = "4.13.2"
+    const val extJunit: String = "1.1.5"
+    const val espressoCore: String = "3.5.1"
+}
